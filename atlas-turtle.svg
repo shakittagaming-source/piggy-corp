@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs><filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="5" flood-color="#16637a" flood-opacity=".22"/></filter></defs>
+  <g filter="url(#s)">
+    <path fill="#38b8d0" stroke="#176d82" stroke-width="7" d="M49 147c-8-39 9-91 54-108 42-16 92 9 99 55 7 42-19 79-59 94-41 15-87-4-94-41Z"/>
+    <path fill="#89dfd4" stroke="#176d82" stroke-width="6" d="M76 139c-7-33 15-65 48-69 37-5 63 28 55 59-9 35-94 44-103 10Z"/>
+    <path fill="none" stroke="#23849a" stroke-width="7" d="M88 91c20 16 37 14 54 0M86 118c22 14 47 14 69-1M117 73v76"/>
+    <circle cx="122" cy="62" r="17" fill="#fffaf0" stroke="#176d82" stroke-width="6"/><circle cx="127" cy="64" r="6" fill="#49331f"/>
+    <path fill="#e7a936" stroke="#176d82" stroke-width="6" d="m71 58-28-20 5 37ZM167 66l31-16-11 35Z"/>
+    <path fill="#e7a936" stroke="#176d82" stroke-width="6" d="m79 166-27 26 42-10ZM164 167l25 25-41-10Z"/>
+    <path fill="none" stroke="#176d82" stroke-linecap="round" stroke-width="7" d="M107 137q16 9 32 0"/>
+  </g>
+</svg>

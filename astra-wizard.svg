@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 360">
+  <defs>
+    <linearGradient id="robe" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5a3c98"/><stop offset="1" stop-color="#2b2b6f"/></linearGradient>
+    <linearGradient id="hat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6d48a8"/><stop offset="1" stop-color="#25245d"/></linearGradient>
+    <filter id="depth"><feDropShadow dx="0" dy="14" stdDeviation="7" flood-color="#2d245b" flood-opacity=".3"/></filter>
+  </defs>
+  <g filter="url(#depth)">
+    <path fill="#f1b083" stroke="#59394c" stroke-width="8" d="M93 153c-4-48 26-80 68-80 44 0 74 33 68 82-5 42-129 42-136-2Z"/>
+    <path fill="#3f3155" stroke="#59394c" stroke-width="7" d="M94 143c-16-32 5-78 62-78 55 0 77 41 63 77-15-23-33-28-57-28-29 0-48 10-68 29Z"/>
+    <circle cx="131" cy="125" r="17" fill="#fff9df" stroke="#59394c" stroke-width="6"/><circle cx="137" cy="126" r="6" fill="#40304c"/>
+    <circle cx="183" cy="125" r="17" fill="#fff9df" stroke="#59394c" stroke-width="6"/><circle cx="189" cy="126" r="6" fill="#40304c"/>
+    <path fill="none" stroke="#59394c" stroke-linecap="round" stroke-width="6" d="M148 156q18 12 36 0"/>
+    <path fill="#e9794f" stroke="#59394c" stroke-width="6" d="m151 141 20 0-10 15Z"/>
+    <path fill="url(#hat)" stroke="#35265e" stroke-width="8" d="M77 72 154 8l89 76-38 9H92Z"/>
+    <path fill="#e6b44b" stroke="#73552b" stroke-width="7" d="M78 84h174v20H86Z"/>
+    <path fill="#f3cf62" d="m155 28 13 18-17 3Z"/>
+    <path fill="url(#robe)" stroke="#2f2c68" stroke-width="9" d="M76 348c9-74 39-116 84-116 48 0 79 43 86 116Z"/>
+    <path fill="#f4c859" stroke="#7e5a2b" stroke-width="6" d="m158 236 12 28-12 27-12-27Z"/>
+    <path fill="#fff8df" stroke="#7e5a2b" stroke-width="5" d="M136 273h49l10 59h-69Z"/>
+    <path fill="#e5ae43" stroke="#7e5a2b" stroke-width="5" d="M148 292h23v27h-23Z"/>
+    <path fill="#54bfa7" stroke="#246858" stroke-width="6" d="M72 259 25 225l-7 15 50 55ZM247 259l48-32 7 15-51 55Z"/>
+    <path fill="#ffd762" stroke="#7e5a2b" stroke-width="5" d="M274 206c7-18 21-18 25-3-5 11-12 19-25 27-6-7-6-15 0-24Z"/>
+    <circle cx="287" cy="205" r="4" fill="#fff8df"/>
+  </g>
+</svg>

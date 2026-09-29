@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/piggy-corp-logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Piggy Corp | Play Smart With Money</title>
+    <style>
+      /* Hide Google Translate top bar and elements */
+      .skiptranslate iframe,
+      .goog-te-banner-frame.skiptranslate,
+      #goog-gt-tt, .goog-te-balloon-frame { display: none !important; }
+      body { top: 0px !important; }
+      #google_translate_element { display: none !important; }
+    </style>
+  </head>
+  <body>
+    <div id="google_translate_element"></div>
+    <div id="root"></div>
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false}, 'google_translate_element');
+      }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

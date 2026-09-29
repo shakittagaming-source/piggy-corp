@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs><filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="5" flood-color="#397b3a" flood-opacity=".22"/></filter></defs>
+  <g filter="url(#s)">
+    <path fill="#6bc95c" stroke="#397b3a" stroke-width="7" d="M45 151 51 54l39 28c23-15 44-15 68 0l40-28 4 101c-10 49-144 49-157-4Z"/>
+    <path fill="#f8df91" stroke="#397b3a" stroke-width="6" d="M72 122c0-32 22-54 48-54 29 0 48 23 48 54 0 39-96 42-96 0Z"/>
+    <path fill="#f08b58" stroke="#397b3a" stroke-width="6" d="m61 65 28 17-32 11ZM178 65l-28 17 32 11Z"/>
+    <circle cx="105" cy="104" r="10" fill="#fffaf0" stroke="#397b3a" stroke-width="5"/><circle cx="108" cy="105" r="4" fill="#49331f"/>
+    <circle cx="137" cy="104" r="10" fill="#fffaf0" stroke="#397b3a" stroke-width="5"/><circle cx="140" cy="105" r="4" fill="#49331f"/>
+    <path fill="#ef8b58" stroke="#397b3a" stroke-width="5" d="m112 120 15 0-8 11Z"/>
+    <path fill="none" stroke="#397b3a" stroke-linecap="round" stroke-width="7" d="M103 139q23 14 46 0"/>
+    <path fill="#b7e85d" stroke="#397b3a" stroke-width="5" d="m88 31 13-23 14 28ZM140 36l18-25 8 28Z"/>
+  </g>
+</svg>
